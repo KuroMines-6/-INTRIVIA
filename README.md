@@ -6,7 +6,10 @@
 | [Davin Jauza Jannathaini] | [265150307111001] | [Teknik Komputer] | [12] | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
-[INTRIVIA 2026 ini rangkaian yang seru banget, disini saya semakin mengenal mengenai program studi saya, departemen saya, dan apa itu kepemimpinan dan bagaimana cara menjadi pribadi yang baik selama berkuliah.] 
+[INTRIVIA 2026 ini rangkaian yang seru banget, disini saya semakin mengenal mengenai program studi saya, departemen saya, dan apa itu kepemimpinan dan bagaimana cara menjadi pribadi yang baik selama berkuliah .] 
 
 ## Kesan Pesan Cluster [12] Sejauh Ini 
 [SERU BANGETT... Mentor-mentornya asik, teman-temannya juga asik semua, pokoknya seru banget cluster 12]
+
+## Harapan Kuliah 
+[Harapannya saya dapat terus belajar hal baru, menambah relasi, dan dapat aktif dalam berorganiasi atau dalam penelitian. Tidak hanya itu, saya berharap, dapat mengimplementasikan apa yang sudah saya pelajari kedepanya.]
